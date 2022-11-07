@@ -1,0 +1,118 @@
+{
+	"BUILD_DIR" : "/Users/apple/CLionProjects/MasterLearning/cmake-build-debug/MasterLearning_autogen",
+	"CMAKE_BINARY_DIR" : "/Users/apple/CLionProjects/MasterLearning/cmake-build-debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/Users/apple/CLionProjects/MasterLearning/cmake-build-debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/Users/apple/CLionProjects/MasterLearning",
+	"CMAKE_EXECUTABLE" : "/Users/apple/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/CLion.app/Contents/bin/cmake/mac/bin/cmake",
+	"CMAKE_LIST_FILES" : 
+	[
+		"/Users/apple/CLionProjects/MasterLearning/CMakeLists.txt",
+		"/Users/apple/CLionProjects/MasterLearning/cmake-build-debug/CMakeFiles/3.20.2/CMakeSystem.cmake",
+		"/Users/apple/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/CLion.app/Contents/bin/cmake/mac/share/cmake-3.20/Modules/CMakeSystemSpecificInitialize.cmake",
+		"/Users/apple/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/CLion.app/Contents/bin/cmake/mac/share/cmake-3.20/Modules/Platform/Darwin-Initialize.cmake",
+		"/Users/apple/CLionProjects/MasterLearning/cmake-build-debug/CMakeFiles/3.20.2/CMakeCCompiler.cmake",
+		"/Users/apple/CLionProjects/MasterLearning/cmake-build-debug/CMakeFiles/3.20.2/CMakeCXXCompiler.cmake",
+		"/Users/apple/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/CLion.app/Contents/bin/cmake/mac/share/cmake-3.20/Modules/CMakeSystemSpecificInformation.cmake",
+		"/Users/apple/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/CLion.app/Contents/bin/cmake/mac/share/cmake-3.20/Modules/CMakeGenericSystem.cmake",
+		"/Users/apple/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/CLion.app/Contents/bin/cmake/mac/share/cmake-3.20/Modules/CMakeInitializeConfigs.cmake",
+		"/Users/apple/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/CLion.app/Contents/bin/cmake/mac/share/cmake-3.20/Modules/Platform/Darwin.cmake",
+		"/Users/apple/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/CLion.app/Contents/bin/cmake/mac/share/cmake-3.20/Modules/Platform/UnixPaths.cmake",
+		"/Users/apple/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/CLion.app/Contents/bin/cmake/mac/share/cmake-3.20/Modules/CMakeFindCodeBlocks.cmake",
+		"/Users/apple/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/CLion.app/Contents/bin/cmake/mac/share/cmake-3.20/Modules/CMakeExtraGeneratorDetermineCompilerMacrosAndIncludeDirs.cmake",
+		"/Users/apple/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/CLion.app/Contents/bin/cmake/mac/share/cmake-3.20/Modules/ProcessorCount.cmake",
+		"/Users/apple/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/CLion.app/Contents/bin/cmake/mac/share/cmake-3.20/Modules/CMakeCInformation.cmake",
+		"/Users/apple/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/CLion.app/Contents/bin/cmake/mac/share/cmake-3.20/Modules/CMakeLanguageInformation.cmake",
+		"/Users/apple/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/CLion.app/Contents/bin/cmake/mac/share/cmake-3.20/Modules/Compiler/AppleClang-C.cmake",
+		"/Users/apple/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/CLion.app/Contents/bin/cmake/mac/share/cmake-3.20/Modules/Compiler/Clang.cmake",
+		"/Users/apple/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/CLion.app/Contents/bin/cmake/mac/share/cmake-3.20/Modules/Compiler/CMakeCommonCompilerMacros.cmake",
+		"/Users/apple/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/CLion.app/Contents/bin/cmake/mac/share/cmake-3.20/Modules/Compiler/GNU.cmake",
+		"/Users/apple/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/CLion.app/Contents/bin/cmake/mac/share/cmake-3.20/Modules/Compiler/CMakeCommonCompilerMacros.cmake",
+		"/Users/apple/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/CLion.app/Contents/bin/cmake/mac/share/cmake-3.20/Modules/Platform/Apple-AppleClang-C.cmake",
+		"/Users/apple/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/CLion.app/Contents/bin/cmake/mac/share/cmake-3.20/Modules/Platform/Apple-Clang-C.cmake",
+		"/Users/apple/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/CLion.app/Contents/bin/cmake/mac/share/cmake-3.20/Modules/Platform/Apple-Clang.cmake",
+		"/Users/apple/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/CLion.app/Contents/bin/cmake/mac/share/cmake-3.20/Modules/CMakeCommonLanguageInclude.cmake",
+		"/Users/apple/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/CLion.app/Contents/bin/cmake/mac/share/cmake-3.20/Modules/CMakeCXXInformation.cmake",
+		"/Users/apple/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/CLion.app/Contents/bin/cmake/mac/share/cmake-3.20/Modules/CMakeLanguageInformation.cmake",
+		"/Users/apple/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/CLion.app/Contents/bin/cmake/mac/share/cmake-3.20/Modules/Compiler/AppleClang-CXX.cmake",
+		"/Users/apple/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/CLion.app/Contents/bin/cmake/mac/share/cmake-3.20/Modules/Compiler/Clang.cmake",
+		"/Users/apple/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/CLion.app/Contents/bin/cmake/mac/share/cmake-3.20/Modules/Platform/Apple-AppleClang-CXX.cmake",
+		"/Users/apple/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/CLion.app/Contents/bin/cmake/mac/share/cmake-3.20/Modules/Platform/Apple-Clang-CXX.cmake",
+		"/Users/apple/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/CLion.app/Contents/bin/cmake/mac/share/cmake-3.20/Modules/Platform/Apple-Clang.cmake",
+		"/Users/apple/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/CLion.app/Contents/bin/cmake/mac/share/cmake-3.20/Modules/CMakeCommonLanguageInclude.cmake",
+		"/Users/apple/opt/anaconda3/lib/cmake/Qt5/Qt5ConfigVersion.cmake",
+		"/Users/apple/opt/anaconda3/lib/cmake/Qt5/Qt5Config.cmake",
+		"/Users/apple/opt/anaconda3/lib/cmake/Qt5/Qt5ModuleLocation.cmake",
+		"/Users/apple/opt/anaconda3/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake",
+		"/Users/apple/opt/anaconda3/lib/cmake/Qt5Core/Qt5CoreConfig.cmake",
+		"/Users/apple/opt/anaconda3/lib/cmake/Qt5Core/Qt5CoreConfigExtras.cmake",
+		"/Users/apple/opt/anaconda3/lib/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake",
+		"/Users/apple/opt/anaconda3/lib/cmake/Qt5Core/Qt5CoreMacros.cmake",
+		"/Users/apple/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/CLion.app/Contents/bin/cmake/mac/share/cmake-3.20/Modules/CMakeParseArguments.cmake"
+	],
+	"CMAKE_SOURCE_DIR" : "/Users/apple/CLionProjects/MasterLearning",
+	"DEP_FILE" : "",
+	"DEP_FILE_RULE_NAME" : "",
+	"HEADERS" : 
+	[
+		[
+			"/Users/apple/CLionProjects/MasterLearning/common_package/macro_define/macro_.h",
+			"MU",
+			"O34ZDP2HWA/moc_macro_.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/Users/apple/CLionProjects/MasterLearning/cmake-build-debug/MasterLearning_autogen/include",
+	"MOC_COMPILATION_FILE" : "/Users/apple/CLionProjects/MasterLearning/cmake-build-debug/MasterLearning_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : [],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/usr/local/include/boost",
+		"/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/usr/include/c++/v1",
+		"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.5/include",
+		"/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/usr/include",
+		"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++",
+		"-dM",
+		"-E",
+		"-c",
+		"/Users/apple/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/CLion.app/Contents/bin/cmake/mac/share/cmake-3.20/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/Users/apple/CLionProjects/MasterLearning/cmake-build-debug/MasterLearning_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 4,
+	"PARSE_CACHE_FILE" : "/Users/apple/CLionProjects/MasterLearning/cmake-build-debug/CMakeFiles/MasterLearning_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/Users/apple/opt/anaconda3/bin/moc",
+	"QT_UIC_EXECUTABLE" : "",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 9,
+	"SETTINGS_FILE" : "/Users/apple/CLionProjects/MasterLearning/cmake-build-debug/CMakeFiles/MasterLearning_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"/Users/apple/CLionProjects/MasterLearning/atomic/cas/no_lock_queue.cpp",
+			"MU",
+			null
+		]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"VERBOSITY" : 0
+}

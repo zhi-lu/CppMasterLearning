@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/apple/CLionProjects/MasterLearning/atomic/cas/no_lock_queue.cpp
+../../common_package/macro_define/macro_.h
+/Users/apple/CLionProjects/MasterLearning/common_package/macro_define/macro_.h
+
+/Users/apple/CLionProjects/MasterLearning/common_package/macro_define/macro_.h
+iostream
+-
+vector
+-
+
